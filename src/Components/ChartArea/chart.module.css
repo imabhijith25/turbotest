@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+    margin-top: 60px;
+}
+
+.check {
+    width: 50%;
+}
+
+.check h1 {
+    font-size: 18px;
+}
